@@ -51,6 +51,8 @@ Useful plugins for Wordpress that I use in development
 
 ## Images
 
+- [WebP Express](https://ru.wordpress.org/plugins/webp-express/) - Plugin generates WebP images and improves img tag. (Good for mobile users)
+
 - [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - Regenerate Thumbnails allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library.
 
 - [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - This plugin automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG.
